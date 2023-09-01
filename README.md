@@ -9,4 +9,10 @@ species - "cat"
 if species =- "cat":
   print("Yep, it's a cat.")
   print("Has it been a minute? Can we get a cat yet?")
+
+Today I learned about Comparison Operators
+== to compare if two things are equal
+!= to compare if two things are not equal
+>= to see greater than or equal to
+<= to see if lesser than or equal to
   
